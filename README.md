@@ -32,4 +32,4 @@
 #### Среда за разработка
 	1. [Notepad2](http://www.flos-freeware.ch/notepad2.html)
 	1. [Sublime](http://www.sublimetext.com/2)
-  1. [Atom](https://atom.io/)
+	1. [Atom](https://atom.io/)
