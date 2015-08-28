@@ -52,6 +52,4 @@ _Последна редакция:_ 27 Август 2015
   1. [CSS Tricks - #102: Braindump on Responsive Web Design](https://css-tricks.com/video-screencasts/102-braindump-on-responsive-web-design/)
   1. [Psychology of Color [Infographic]](http://www.webpagefx.com/blog/web-design/psychology-of-color-infographic/?utm_source=CMblog&utm_medium=link&utm_campaign=InfographicsforDesign)
   1. Color Emotion Guide
-![color-emotion-guide](https://raw.githubusercontent.com/dimitardanailov/rails-girls-varna-materials/master/assets/color-emotion-guide-logo-infographic.jpg "Color Emotion Guide")
-
-
+![color-emotion-guide](assets/color-emotion-guide-logo-infographic.jpg "Color Emotion Guide")
